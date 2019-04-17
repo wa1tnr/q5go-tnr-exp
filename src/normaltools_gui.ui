@@ -271,7 +271,7 @@
         <widget class="QLabel" name="TextLabel_Handicap">
          <property name="maximumSize">
           <size>
-           <width>15</width>
+           <width>45</width>
            <height>32767</height>
           </size>
          </property>
@@ -284,7 +284,7 @@
 Number of stones placed by black as his first move.</string>
          </property>
          <property name="text">
-          <string>H:</string>
+          <string>  H:</string>
          </property>
          <property name="wordWrap">
           <bool>false</bool>

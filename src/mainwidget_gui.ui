@@ -297,7 +297,7 @@ Maximum game move the slider can currently show.</string>
     <rect>
      <x>460</x>
      <y>0</y>
-     <width>150</width>
+     <width>350</width>
      <height>647</height>
     </rect>
    </property>
@@ -309,7 +309,7 @@ Maximum game move the slider can currently show.</string>
    </property>
    <property name="minimumSize">
     <size>
-     <width>148</width>
+     <width>348</width>
      <height>230</height>
     </size>
    </property>
