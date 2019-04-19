@@ -9,7 +9,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
+    <width>500</width>
     <height>606</height>
    </rect>
   </property>
@@ -21,7 +21,7 @@
   </property>
   <property name="minimumSize">
    <size>
-    <width>400</width>
+    <width>500</width>
     <height>575</height>
    </size>
   </property>
@@ -269,13 +269,13 @@
        <widget class="QSpinBox" name="boardsizeSpinBox">
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>140</width>
           <height>40</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>60</width>
+          <width>160</width>
           <height>32767</height>
          </size>
         </property>
@@ -310,13 +310,13 @@
        <widget class="KomiSpinBox" name="komiSpin" native="true">
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>140</width>
           <height>40</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>60</width>
+          <width>160</width>
           <height>32767</height>
          </size>
         </property>
@@ -361,13 +361,13 @@
        <widget class="QSpinBox" name="handicapSpinBox">
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>140</width>
           <height>40</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>60</width>
+          <width>160</width>
           <height>32767</height>
          </size>
         </property>
